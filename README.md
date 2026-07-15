@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Tumwesige Robertson  
 
-<!--
-**robert4techie/robert4techie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+I design and develop web-based information systems that help organizations automate their operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main focus is building secure, scalable and user-friendly business applications.
+
+##  Technical Skills
+
+### Backend
+
+* PHP
+* Laravel
+* REST APIs
+
+### Databases
+
+* MySQL
+* MariaDB
+* Oracle Database
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+
+### Tools
+
+* Git & GitHub
+* Composer
+* XAMPP
+* Laragon
+* VS Code
+
+##  Featured Projects
+
+### School Management System
+
+A complete school administration platform managing students, staff, attendance, fees, inventory, library and reports.
+
+### SACCO Management System
+
+A financial management platform designed to automate member management, savings, transactions and reporting.
+
+### Property Management System
+
+A system for managing properties, tenants, payments and related operations.
+
+### Inventory Management System
+
+A solution for tracking stock, assets and business inventory.
+
+## Currently Learning
+
+* Flutter & Dart
+* Laravel Development
+* PostgreSQL
+* DevOps and CI/CD
+
+## Contact
+
+Email: robertsontumwesige1@gmail.com
+Location: Kampala, Uganda
