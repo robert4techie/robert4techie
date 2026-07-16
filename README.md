@@ -18,7 +18,6 @@ My focus is on creating reliable, user-friendly, and maintainable solutions for 
 - Laravel
 - MySQL
 - MariaDB
-- PostgreSQL
 - REST API Development
 - Database Design
 - Authentication Systems
